@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Bahamas Getaway",
+    "length": "7 nights",
+    "resort": "Atlantis Resort",
+    "perPerson": "$1,999",
+    "image": "images/reef1.jpg",
+    "description": "Enjoy the beautiful beaches and luxury resort experience."
+  },
+  {
+    "name": "European Adventure",
+    "length": "10 nights",
+    "resort": "Multiple Cities",
+    "perPerson": "$2,499",
+    "image": "images/reef2.jpg",
+    "description": "Explore the culture and history of Europe."
+  },
+  {
+    "name": "Mountain Escape",
+    "length": "5 nights",
+    "resort": "Rocky Mountain Lodge",
+    "perPerson": "$1,299",
+    "image": "images/reef3.jpg",
+    "description": "Relax in nature with scenic mountain views."
+  }
+]

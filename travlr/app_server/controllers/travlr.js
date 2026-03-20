@@ -1,5 +1,10 @@
+const trips = require('../data/trips.json');
+
 const travel = (req, res) => {
-  res.render('travlr', { title: 'Travlr Getaways' });
+ res.render('travel', { 
+  title: 'Travel',
+  trips 
+});
 };
 
 module.exports = {
