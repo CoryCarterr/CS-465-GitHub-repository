@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { Router } from '@angular/router';
 import { FormBuilder, FormGroup, Validators, ReactiveFormsModule } from '@angular/forms';
-import { TripDataService } from '../services/trip-data';
+import { TripDataService } from '../services/trip-data.service';
 
 @Component({
   selector: 'app-add-trip',

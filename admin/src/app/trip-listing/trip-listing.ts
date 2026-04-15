@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterLink } from '@angular/router';
 import { TripCard } from '../trip-card/trip-card';
-import { TripDataService } from '../services/trip-data';
+import { TripDataService } from '../services/trip-data.service';
 
 @Component({
   selector: 'app-trip-listing',
