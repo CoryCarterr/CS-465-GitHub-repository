@@ -13,3 +13,4 @@ mongoose.connection.on('error', err => {
 });
 
 require('./travlr');
+require('./users'); // add this line
